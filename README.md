@@ -5,7 +5,7 @@
 
 
 I need to develop a machine learning model to predict real estate prices in Belgium. 
-Utilizing a previously scraped, preprocessed, and analyzed dataset, our objective is to create a robust model capable
+Utilizing a previously scraped, preprocessed, and analyzed dataset, my objective is to create a robust model capable
 of accurate price predictions.
 
 
