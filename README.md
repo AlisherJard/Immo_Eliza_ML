@@ -5,7 +5,7 @@
 
 
 I need to develop a machine learning model to predict real estate prices in Belgium. 
-Utilizing a previously scraped, preprocessed, and analyzed dataset, my objective is to create a robust model capable
+Utilizing a previously scraped, preprocessed, and analyzed dataset, our objective is to create a robust model capable
 of accurate price predictions.
 
 
@@ -51,11 +51,8 @@ Split the dataset into training and testing sets (X_train, y_train, X_test, y_te
 
 
 ### 3. 🔄 📝 Model Selection and Application
-
-Select Appropriate Models 
-Evaluate various machine learning models (e.g., Linear Regression, Decision Trees, Random Forest, 
-Gradient Boosting) and select the one that makes the most sense for your data.
-Train the selected model on the training data and apply it to the testing data.
+Evaluate various machine learning models (Linear Regression, Multiple Regression, Decision Trees, Random Forest) 
+and select the one that is most suitable for my data for web deployment.
 
 
 ### 🖥️ Model Evaluation
