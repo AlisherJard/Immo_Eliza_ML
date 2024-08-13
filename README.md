@@ -26,7 +26,7 @@ of accurate price predictions.
 
 ## 🛠️ Usage
   
-### 1. 🧹 Data Cleaning
+### 1. 🧹 Feature Engineering
 
 Making sure dataset is free of:
 
