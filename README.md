@@ -15,22 +15,14 @@ of accurate price predictions.
 - To run this project, you need to have Python installed on your machine.
   You also need the following Python libraries:
 
-- `scipy`
-
-- `matplotlib`
-
-- `pandas`
-
-- `seaborn`
-
-- `numpy`
-
-- `sklearn`
-
-- `math`
-
-- `warnings`
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![matplotlib](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
+![math](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
+![seaborn](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
+![warnings](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
+![scipy](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
 
 ## 🛠️ Usage
   
