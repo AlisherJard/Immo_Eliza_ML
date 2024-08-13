@@ -18,11 +18,11 @@ of accurate price predictions.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
-![math](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
-![seaborn](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
-![warnings](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
-![scipy](https://alisherjard-deployment-streamlit-app-jpegcx.streamlit.app)
+![matplotlib](https://img.shields.io/badge/matplotlib-0076A8?style=for-the-badge&logo=python&logoColor=white)
+![math](https://img.shields.io/badge/math-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![warnings](https://img.shields.io/badge/warnings-FFB000?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ## 🛠️ Usage
   
